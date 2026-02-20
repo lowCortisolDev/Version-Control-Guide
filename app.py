@@ -3,7 +3,7 @@ def greet(name):
 
 
 def main():
-    user_name = "Beginner"
+    user_name = "Feature User"
     print(greet(user_name))
 
 
