@@ -3,7 +3,7 @@ def greet(name):
 
 
 def main():
-    user_name = "Main User"
+    user_name = "Merge User"
     print(greet(user_name))
 
 
